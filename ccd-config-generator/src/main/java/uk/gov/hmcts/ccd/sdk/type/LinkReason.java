@@ -1,4 +1,4 @@
-package uk.gov.hmcts.ccd.sdk.api;
+package uk.gov.hmcts.ccd.sdk.type;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
