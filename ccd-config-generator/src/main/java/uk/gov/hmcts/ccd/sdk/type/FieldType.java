@@ -19,6 +19,10 @@ public enum FieldType {
   Label,
   CasePaymentHistoryViewer,
   DynamicRadioList,
+  Flags,
+  FlagLauncher,
+  FlagType,
+  FlagDetail,
   LinkReason,
   ComponentLauncher
 }
